@@ -17,6 +17,24 @@
           "nombre": "Plan Premium",
           "precio": 49.99,
           "numServicios": 10
+        },
+        {
+          "id": 4,
+          "nombre": "Plan Básico PRO",
+          "precio": 19.99,
+          "numServicios": 6
+        },
+        {
+          "id": 5,
+          "nombre": "Plan Estándar PRO",
+          "precio": 29.99,
+          "numServicios": 10
+        },
+        {
+          "id": 6,
+          "nombre": "Plan PremiumPRO",
+          "precio": 49.99,
+          "numServicios": 20
         }
       ],
     "comments": [
