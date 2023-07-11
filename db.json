@@ -1,0 +1,37 @@
+{
+    "planes": [
+        {
+          "id": 1,
+          "nombre": "Plan Básico",
+          "precio": 19.99,
+          "numServicios": 3
+        },
+        {
+          "id": 2,
+          "nombre": "Plan Estándar",
+          "precio": 29.99,
+          "numServicios": 5
+        },
+        {
+          "id": 3,
+          "nombre": "Plan Premium",
+          "precio": 49.99,
+          "numServicios": 10
+        }
+      ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
